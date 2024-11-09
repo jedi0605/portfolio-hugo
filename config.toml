@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Meng Chieh (Jedi)'
+theme = 'hugo-theme-stack'
